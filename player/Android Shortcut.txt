@@ -1,0 +1,5 @@
+Ctrl + B --> Navicate to the source (class, layout)
+
+Ctrl + E --> Recent Files
+
+Ctrl + Alt + left --> Navicate to back
