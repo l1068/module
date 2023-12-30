@@ -1,6 +1,6 @@
 {
-	"version": "2.5",
-	"versionCode": 25,
+	"version": "6.7",
+	"versionCode": 67,
 	"link": "https://play.google.com/store/apps/details?id=com.genuine.leone",
-	"note": "- Add redirection validation\n- Improve application update screen\n- Update Android gradle plugin\n- Update NDK\n- Update dependencies\n- Fix VPN crash when the only system DNS server available uses IPv6 and IPv6 is disabled from settings \n- Remove html-textview dependency and jcenter repository"
+	"note": "- Supported android 14\n- Bug fixes and performance improvements"
 }
